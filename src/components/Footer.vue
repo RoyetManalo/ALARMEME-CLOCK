@@ -44,6 +44,9 @@ footer::before {
   transform: translate(-50%, 10%);
 }
 
-@media (max-height: 667) {
+@media (max-height: 667px) {
+  footer {
+    display: none;
+  }
 }
 </style>
