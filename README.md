@@ -1,10 +1,8 @@
 # Alarmeme Clock
 
-> A Personal Project
-
 ## Description
 
-> An alarm clock that shows dancing memes when alarms fires off
+A Personal Project - An alarm clock that shows dancing memes when alarms fires off
 
 ### Live Demo Here
 
