@@ -8,24 +8,4 @@ A Personal Project - An alarm clock that shows dancing memes when alarms fires o
 
 [Alarmeme Clock](https://alarmeme-clock.netlify.app/)
 
-## Project setup
-
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-
-```
-npm run build
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Note: I don't have enough money to buy my own domain yet, maybe when I got a job
